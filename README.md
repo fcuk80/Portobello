@@ -10,14 +10,21 @@ Portobello Cafe, is a cafe located in a small coastal town, in northern Morocco.
 
 For my first project i wanted to keep things simply. In the planning stage, I thought about what can be displyed in a website for a coffee shop.
 
-Location 
+#Responsivness
+
+I used ui.dev to see what the page would look like on various devices.
+<img src= "assets/images/devices.png">
+
+
+#Location 
     - Where the cafe is located, with map included.
-Menu 
+#Menu 
     - photos, description, price and allegegy information
-Services
+#Services
     - Amenities offered such as wifi and function room
-Contact
+#Contact
     - phone number, email and social media taggs.
+    
 I then had to think about how i was gonna layout the page and for that i needed to create a wireframe. I used a site called figma to draw and design the wireframe, keeping as simple as possible.
 
 <img src= "assets\images\wireframe project1.png">
@@ -31,8 +38,3 @@ I used google to find images to use and W3C for tutrials along with youtube vide
 #Challenges
 
 My biggest learning curve, was probaby padding and floating iteams across. This also help me understand div functions better.
-
-#Responsivness
-
-I used ui.dev to see what the page would look like on various devices.
-<img src= "assets/images/devices.png">
