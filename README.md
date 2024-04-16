@@ -20,7 +20,7 @@ Contact
     - phone number, email and social media taggs.
 I then had to think about how i was gonna layout the page and for that i needed to create a wireframe. I used a site called figma to draw and design the wireframe, keeping as simple as possible.
 
-img scr= "assets\images\wireframe project1.png"
+<img scr= "assets\images\wireframe project1.png">
 
 #Code
 
