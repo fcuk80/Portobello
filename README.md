@@ -39,3 +39,6 @@ I used google to find images to use and W3C for tutrials along with youtube vide
 #Challenges
 
 My biggest learning curve, was probaby padding and floating iteams across. This also help me understand div functions better.
+
+<img src= "assets\images\validator.png">
+<img src= "assets\images\lighthouse.png>
