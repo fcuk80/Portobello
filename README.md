@@ -35,4 +35,4 @@ My biggest learning curve, was probaby padding and floating iteams across. This 
 #Responsivness
 
 I used ui.dev to see what the page would look like on various devices.
-<img src= "assets/images/croissant.jpeg">
+<img src= "assets/images/devices.png">
