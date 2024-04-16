@@ -31,3 +31,8 @@ I used google to find images to use and W3C for tutrials along with youtube vide
 #Challenges
 
 My biggest learning curve, was probaby padding and floating iteams across. This also help me understand div functions better.
+
+#Responsivness
+
+I used ui.dev to see what the page would look like on various devices.
+<img src= "assets/images/croissant.jpeg">
