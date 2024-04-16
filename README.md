@@ -13,6 +13,7 @@ For my first project i wanted to keep things simply. In the planning stage, I th
 #Responsivness
 
 I used ui.dev to see what the page would look like on various devices.
+
 <img src= "assets/images/devices.png">
 
 
