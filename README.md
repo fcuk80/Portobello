@@ -40,5 +40,10 @@ I used google to find images to use and W3C for tutrials along with youtube vide
 
 My biggest learning curve, was probaby padding and floating iteams across. This also help me understand div functions better.
 
+#Testing
+
+I used Google Lighthouse and W3C vakidator, to check the responsiveness of the site.
+
 <img src= "assets\images\validator.png">
+    
 <img src= "assets\images\lighthouse.png">
